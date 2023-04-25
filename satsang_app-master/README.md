@@ -11,3 +11,6 @@ Integrating Youtube Data API v3 and Youtube Player along with Firebase Auth usin
 ## Setup
 
 To use your own Youtube Data API v3 key. Create an ```API_KEY``` in the utilities folder and name it ```keys.dart``` 
+
+Team Members: Sneha Garg
+              Shruti Shrivastava
